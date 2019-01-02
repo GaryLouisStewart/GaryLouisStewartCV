@@ -1,8 +1,32 @@
-## Welcome to GitHub Pages
+# Technological exposure
+AWS, Kubernetes, Docker, Terraform, Bash Scripting, Jenkins CI, Drone CI, Gitlab CI/CD, Vagrant, Pagerduty, New relic, Ubuntu, Redhat,  Linux Administration, Ubuntu Server, Minikube, Kops, prior experience within the desktop support area in multiple environments from Windows only to a 70/30 split of windows and mac os x.
 
-You can use the [editor on GitHub](https://github.com/GaryLouisStewart/experience/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Experience
+
+### Tictrac 
+
+~ *Devops Engineer*
+
+**April - December 2016:**
+
+Assisted with a migration from ansible into docker containers for most of the critical infrastructure, started to use kubernetes to manage all of the docker containers that we had migrated the infrastructure into. Used the kops tool to provision the kubernetes clusters on AWS.
+Administration experience using Kubernetes to control the fleet of docker containers and basic experience with the AWS console, building maintaining and troubleshooting solutions with docker and kubernetes. CI deployments with jenkins, documenting procedures on confluence.
+
+**January - September 2017:**
+
+Research of potential tools to help improve the way we tackled our deployments at tictrac. Found out about helm and presented it to our CTO explaining the benefits of adopting this technology. Assisted CTO with migration over to using helm to package our infrastructure. Started taking care of client deployments from Dev to staging eventually through to UAT and production deployments and documenting the process behind it. Helped to setup continuous integration for android builds of our application.
+
+**September 2017 - July 2018:**
+
+Started using gitlab and investigating use of terraform to manage aws resource automation. more usage of terraform and introduction of continuous delivery to some of the projects. Upgrading kubernetes clusters and migration of all projects into helm. Research into replacement CI systems and migrated over to use droneCI for some jobs
+
+---
+
+### Brilliant Basics (System Administrator)
+
+
 
 ### Markdown
 
